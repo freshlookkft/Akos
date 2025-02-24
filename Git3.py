@@ -105,7 +105,7 @@ def load_file(file_path):
     
 
     # Specify folder path
-folder_path = "/Users/binobenjamin/Documents/Github/Blog"
+folder_path = "/Users/binobenjamin/Documents/Github/tudastarbovites"
 
 # Load all documents from the folder
 docs = load_documents_from_folder(folder_path)
